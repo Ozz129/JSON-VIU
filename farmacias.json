@@ -1,22 +1,8 @@
 {
       {
-        "titular_nombre": "Amaya Corral Palomino",
-        "direccion_vial_tipo": "PLAZA",
-        "farmacia_nro_soe": "2",
-        "municipio_nombre": "Madrid",
-        "direccion_vial_nombre": "del Dos de Mayo",
-        "localizacion_coordenada_x": 440267,
-        "direccion_vial_nro": "6",
-        "localizacion_coordenada_y": 4475426
+        "name": "Amaya Corral Palomino"
       },
       {
-        "titular_nombre": "Montserrat Gimenez Mestre",
-        "direccion_vial_tipo": "CALLE",
-        "farmacia_nro_soe": "3",
-        "municipio_nombre": "Madrid",
-        "direccion_vial_nombre": "de Ríos Rosas",
-        "localizacion_coordenada_x": 440954,
-        "direccion_vial_nro": "50",
-        "localizacion_coordenada_y": 4477004
+        "name": "Montserrat Gimenez Mestre"
       }
 }
